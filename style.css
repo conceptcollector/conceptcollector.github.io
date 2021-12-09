@@ -5,5 +5,9 @@
 }
 
 .left {
-        font-style:italic;
+    font-style:italic;
+}
+
+h5 {
+    font-family:"Brush Script MT", cursive;
 }
