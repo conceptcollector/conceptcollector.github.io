@@ -4,10 +4,10 @@
     margin-right:auto;
 }
 
-.left {
-    font-style:italic;
-}
-
 h5 {
     font-family: "Brush Script MT", cursive;
+}
+
+.left {
+    font-style:italic;
 }
