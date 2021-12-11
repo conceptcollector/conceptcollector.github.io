@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(to bottom, #ebebeb 0%, #add8e6 15%);
+    background: linear-gradient(to bottom, #ebebeb 0%, #add8e6 15% 100%);
 }
 
 .statement {
