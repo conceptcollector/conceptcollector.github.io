@@ -1,6 +1,6 @@
 body {
-    leftmargin:"50";
-    rightmargin:"50";
+    margin-left: 50px;
+    margin-right: 50px;
     background: linear-gradient(to bottom, #ebebeb 0% 235px, #add8e6 235px 100%);
 }
 
