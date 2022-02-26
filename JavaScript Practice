@@ -1,3 +1,8 @@
 function hello() {
 	return "Hello edabit.com";
 }
+
+function addition(a, b) {
+	let sum = a + b;
+	return sum;
+}
